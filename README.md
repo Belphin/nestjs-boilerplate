@@ -1,5 +1,5 @@
 <p align="right">
-   <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/Node.js-v2.0.0-brightgreen.svg" alt="Node Version" /></a>
+   <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/Node.js-v20.12.0-brightgreen.svg" alt="Node Version" /></a>
 </p>
 
 # NestJS Project Structure
