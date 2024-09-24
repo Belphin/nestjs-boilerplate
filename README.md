@@ -56,7 +56,7 @@ This is a NestJS project boilerplate with Firebase for authentication and MongoD
                 └── ...
 ```
 
-## Documentation Maintenance
+# Documentation Maintenance
 
 To write documentation for a specific endpoint, you need to add the `ApiResponsesDoc` decorator to the endpoint and pass the response schema for that endpoint:
 
@@ -102,7 +102,7 @@ export const userResponseExamples: ApiResponsesSchemasRecord = {
 
 If there are multiple such files, create a folder named `responses` to organize them.
 
-## Initialization
+# Initialization
 
 To get started with this boilerplate, follow these steps:
 
